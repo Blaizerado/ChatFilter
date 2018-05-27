@@ -1,4 +1,4 @@
-package de.ilovejave.main;
+package de.ilovejave.chatfilter;
 
 import java.io.File;
 import java.util.ArrayList;

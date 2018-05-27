@@ -7,7 +7,7 @@ import org.bukkit.event.player.AsyncPlayerChatEvent;
 import de.ilovejava.stringuitl.Ip_Util;
 import de.ilovejava.stringuitl.UpperCase;
 import de.ilovejava.unicode.Unicode;
-import de.ilovejave.main.ChatFilter;
+import de.ilovejave.chatfilter.ChatFilter;
 
 public class ChatEvent implements Listener {
 	@EventHandler

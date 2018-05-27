@@ -2,7 +2,7 @@ package de.ilovejava.words;
 
 import java.sql.ResultSet;
 
-import de.ilovejave.main.ChatFilter;
+import de.ilovejave.chatfilter.ChatFilter;
 
 public class LoadWords extends Thread{
 	public LoadWords() {}

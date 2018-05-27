@@ -7,7 +7,7 @@ import org.bukkit.plugin.Plugin;
 import de.ilovejava.stringuitl.UpperCase;
 import de.ilovejava.utils.Utils_Add;
 import de.ilovejava.utils.Utils_Remove;
-import de.ilovejave.main.ChatFilter;
+import de.ilovejave.chatfilter.ChatFilter;
 
 public class Chat extends AbstarctCommand{
 

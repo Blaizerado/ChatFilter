@@ -2,7 +2,7 @@ package de.ilovejava.utils;
 
 import org.bukkit.entity.Player;
 
-import de.ilovejave.main.ChatFilter;
+import de.ilovejave.chatfilter.ChatFilter;
 
 public class Utils_Add extends Thread{
 	String word;
